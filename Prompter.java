@@ -18,6 +18,7 @@ public class Prompter {
         //we can only send ONE char to the applyGuess() ability we created, so I need to pull one char
 
         char guess = guessInput.charAt(0);
+        System.out.println("This is a new line!");
         //the PROMPTER doesn't test if the guess matches, that's done by the GAME logic
         return game.applyGuess(guess);
 
