@@ -5,7 +5,8 @@ public class Game {
     private String hits;
     private String misses;
 
-
+    //THIS IS A COMMENT ADDED FROM GITHUB
+    
     //This class will hold the LOGIC for the hangman game
     public Game(String answer) {
         //I should have the answer, it should be PRIVATE
