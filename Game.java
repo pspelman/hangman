@@ -8,6 +8,8 @@ public class Game {
     //THIS IS A COMMENT ADDED FROM GITHUB
     
     //This class will hold the LOGIC for the hangman game
+
+    //THIS IS A COMMENT FROM SUBLIME TEXT ON 11/11/2017 AT 18:09PM
     public Game(String answer) {
         //I should have the answer, it should be PRIVATE
         this.answer = answer;
